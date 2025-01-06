@@ -9,6 +9,7 @@ This project uses a comprehensive dataset provided by CQI to analyze key factors
 ---
 
 ## **Dataset Details**
+[Datset](https://github.com/harshachelluri/Coffee-Quality-Data-Analysis/blob/main/Dataset.csv)
 
 The dataset includes rich information about coffee production, processing, sensory evaluation, and more:  
 
