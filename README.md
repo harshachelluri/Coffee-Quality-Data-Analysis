@@ -1,4 +1,4 @@
-# **Coffee Quality Data Analysis: A Power BI Capstone Project**
+# **Coffee Quality Data Analysis BY Power BI 
 
 ## **Overview**
 
