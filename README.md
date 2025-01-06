@@ -31,7 +31,6 @@ The dataset includes rich information about coffee production, processing, senso
 
 ### **Additional Variables**  
 - Processing methods and regional origins.  
-- Genetics, soil types, and environmental factors.
 
 ---
 
