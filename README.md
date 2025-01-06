@@ -101,3 +101,8 @@ This project focuses on addressing the following research questions:
 - **Defect Analysis**: Trends showing how defects influence overall scores.  
 - **Regional and Processing Patterns**: Clear understanding of how origin and methods impact quality.  
 - **Stakeholder Value**: Interactive dashboards for decision-making support.
+
+![p1](https://github.com/user-attachments/assets/def02184-60db-4c09-b731-bee4705229a9)
+![p2](https://github.com/user-attachments/assets/02ac4984-f990-4f53-bcc9-bf9d44e8b7ad)
+![p3](https://github.com/user-attachments/assets/c24af938-6a48-4c67-92ff-bcd4e77183d2)
+![p4](https://github.com/user-attachments/assets/5099af8c-8055-405d-bd73-dec7ebd4a11a)
