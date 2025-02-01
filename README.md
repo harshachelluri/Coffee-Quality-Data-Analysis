@@ -1,5 +1,5 @@
 # **Coffee Quality Data Analysis BY Power BI**
-
+     
 ## **Overview**
 
 The **Coffee Quality Institute (CQI)** is a non-profit organization committed to enhancing the quality and value of coffee globally. Established in 1996, CQI works with coffee growers, processors, roasters, and other stakeholders to improve coffee quality standards, promote sustainability, and support the growth of the specialty coffee industry.  
